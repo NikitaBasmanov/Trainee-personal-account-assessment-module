@@ -1,0 +1,369 @@
+.child3,
+.child4,
+.child5 {
+  position: absolute;
+  top: -2px;
+  left: 0;
+  width: 50px;
+  height: 4px;
+}
+.child4,
+.child5 {
+  top: 16px;
+}
+.child5 {
+  top: 34px;
+}
+.button2,
+.icon7 {
+  position: relative;
+}
+.button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
+  width: 50px;
+  height: 36px;
+}
+.icon7 {
+  width: 108px;
+  height: 108px;
+  object-fit: cover;
+}
+.parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xl);
+}
+.black-icon2 {
+  position: relative;
+  width: 48px;
+  height: 48px;
+}
+.a2 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+}
+.black-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-parent1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-11xl);
+  gap: var(--gap-11xl);
+}
+.div25,
+.frame-container,
+.frame-parent1 {
+  display: flex;
+  align-items: center;
+}
+.frame-container {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-559xl);
+}
+.div25 {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center;
+}
+.p4 {
+  margin: 0;
+}
+.div26 {
+  position: relative;
+  line-height: 40px;
+}
+.parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-31xl);
+  font-size: var(--font-size-19xl);
+}
+.child6,
+.div31 {
+  position: relative;
+}
+.child6 {
+  width: 212px;
+  height: 3px;
+}
+.div30 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.child7,
+.div32 {
+  position: relative;
+}
+.child7 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 400px;
+  height: 60px;
+  z-index: 0;
+}
+.div32 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-montserrat);
+  color: var(--color-black);
+  text-align: left;
+}
+.image-1-2 {
+  position: relative;
+  width: 39px;
+  height: 39px;
+  object-fit: cover;
+}
+.button3,
+.div29,
+.parent4 {
+  display: flex;
+  align-items: center;
+}
+.parent4 {
+  margin: 0 !important;
+  position: absolute;
+  top: 10px;
+  left: 104px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-33xl);
+  z-index: 1;
+}
+.button3,
+.div29 {
+  flex-direction: column;
+  justify-content: center;
+}
+.button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.div29 {
+  height: 131px;
+  gap: var(--gap-xl);
+}
+.child8 {
+  position: relative;
+  width: 248px;
+  height: 3px;
+}
+.div34 {
+  gap: var(--gap-3xs);
+}
+.div33,
+.div34,
+.parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.div33 {
+  gap: var(--gap-xl);
+}
+.parent3 {
+  align-self: stretch;
+  gap: 42px;
+  text-align: center;
+  font-size: var(--font-size-15xl);
+}
+.image-2-icon {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.frame-child,
+.frame-item {
+  position: relative;
+  background-color: var(--color-gold);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frame-child {
+  border-radius: var(--br-71xl);
+  width: 400px;
+  height: 7px;
+}
+.frame-item {
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+}
+.rectangle-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-inner {
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-right: 1px solid var(--color-gold);
+  box-sizing: border-box;
+  width: 1px;
+  height: 16px;
+}
+.line-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div41,
+.frame-parent2,
+.parent6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent2 {
+  flex-direction: row;
+  gap: var(--gap-66xl);
+}
+.div41,
+.parent6 {
+  flex-direction: column;
+}
+.parent6 {
+  gap: var(--gap-7xs);
+}
+.child10,
+.div48 {
+  position: absolute;
+}
+.child10 {
+  height: 100%;
+  width: 51.01%;
+  top: 0;
+  right: 48.99%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gold);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div48 {
+  width: 69.19%;
+  top: 22%;
+  left: -9.4%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div47 {
+  position: relative;
+  width: 149px;
+  height: 50px;
+  color: var(--color-gray);
+}
+.div38 {
+  gap: var(--gap-mid);
+}
+.div38,
+.div49,
+.image-2-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-2-parent {
+  gap: var(--gap-6xs);
+}
+.div49 {
+  gap: 15px;
+}
+.frame-parent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 5px;
+}
+.div37,
+.div80 {
+  font-size: var(--font-size-7xl);
+  text-align: center;
+}
+.div37 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-7xs);
+}
+.div80 {
+  position: relative;
+  font-family: var(--font-montserrat);
+  color: var(--color-gray);
+}
+.frame {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-4xs) 62px;
+  background-color: var(--color-gold);
+  border-radius: var(--br-8xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.div24,
+.div79 {
+  display: flex;
+  flex-direction: column;
+}
+.div79 {
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xl) 0;
+}
+.div24 {
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-86xl);
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
