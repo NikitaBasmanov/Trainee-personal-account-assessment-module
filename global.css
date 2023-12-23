@@ -13,15 +13,19 @@ body {
   --font-size-15xl: 34px;
   --font-size-19xl: 38px;
   --font-size-3xl: 22px;
+  --font-size-xl: 20px;
   --font-size-14xl: 33px;
   --font-size-6xl: 25px;
 
   /* Colors */
   --color-white: #fff;
   --color-gold: #fed201;
+  --color-gray-100: #919191;
+  --color-gray-200: #909090;
   --color-gray: #292929;
   --color-black: #000;
   --color-silver: #c9c9c9;
+  --color-lightgray: rgba(209, 209, 209, 0);
 
   /* Gaps */
   --gap-86xl: 105px;
@@ -30,13 +34,17 @@ body {
   --gap-31xl: 50px;
   --gap-559xl: 578px;
   --gap-11xl: 30px;
+  --gap-316xl: 335px;
+  --gap-0: 0px;
+  --gap-21xl: 40px;
+  --gap-23xl: 42px;
+  --gap-xs: 12px;
   --gap-mid: 17px;
   --gap-66xl: 85px;
   --gap-6xs: 7px;
   --gap-xl: 20px;
   --gap-33xl: 52px;
   --gap-35xl: 54px;
-  --gap-21xl: 40px;
 
   /* Paddings */
   --padding-6xl: 25px;
